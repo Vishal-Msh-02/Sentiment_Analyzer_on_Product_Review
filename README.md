@@ -3,6 +3,11 @@
 This project uses **Natural Language Processing (NLP)** and **Machine Learning** to analyze Amazon product reviews and predict whether a review is **Positive** or **Negative**. The model is trained on real Amazon user feedback and deployed using **Streamlit** as a live web application.
 
 ---
+## 🌐 Live Demo
+
+Try the live Streamlit app 👉  
+🔗 [Sentiment Analysis App](https://sentimentanalyzeronappuctreview-giqxozqk9nkln8u3jy2ejq.streamlit.app/)
+
 
 ## 📌 Project Highlights
 
